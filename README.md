@@ -37,4 +37,4 @@ The application is developed using Java Swing, featuring a main `JFrame` and mul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Himali09/OratorIQ.git
+   git clone https://github.com/Himali09/CarParkingManagementSystem.git
